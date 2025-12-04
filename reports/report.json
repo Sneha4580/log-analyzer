@@ -1,0 +1,9 @@
+{
+    "185.220.101.4": {
+        "failed_attempts": 5,
+        "severity": "Low",
+        "window_start": "2025-01-10 12:03:11",
+        "window_end": "2025-01-10 12:04:11",
+        "suggestion": "Low severity. Review and keep monitoring."
+    }
+}
